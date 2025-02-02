@@ -1,4 +1,4 @@
-o celebrate the Year of the Snake, I built a 3D Snake Game where two AI-controlled snakes battle it out, in an OpenGL-rendered arena! No human players—just the two competing AIs making strategic moves to outmaneuver each other. (What language better to make this in but Python)
+To celebrate the Year of the Snake, I built a 3D Snake Game where two AI-controlled snakes battle it out, in an OpenGL-rendered arena! No human players—just the two competing AIs making strategic moves to outmaneuver each other. (What language better to make this in but Python)
 
 🚀 Key Features:
 🔹 AI-driven movement with adaptive pathfinding
